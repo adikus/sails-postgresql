@@ -1,7 +1,7 @@
 {
   "name": "sails-postgresql-adikus",
   "description": "a postgreSQL adapter for Waterline and Sails.js",
-  "version": "0.9.7",
+  "version": "0.9.8",
   "author": "Cody Stoltman <particlebanana@gmail.com>",
   "url": "http://github.com/adikus/sails-postgresql",
   "keywords": [
