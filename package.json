@@ -1,9 +1,9 @@
 {
-  "name": "sails-postgresql",
+  "name": "sails-postgresql-adikus",
   "description": "a postgreSQL adapter for Waterline and Sails.js",
   "version": "0.9.7",
   "author": "Cody Stoltman <particlebanana@gmail.com>",
-  "url": "http://github.com/balderdashy/sails-postgresql",
+  "url": "http://github.com/adikus/sails-postgresql",
   "keywords": [
     "postgresql",
     "orm",
@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/balderdashy/sails-postgresql.git"
+    "url": "git://github.com/adikus/sails-postgresql.git"
   },
   "dependencies": {
     "pg": "~2.11.0",
@@ -31,6 +31,5 @@
   "directories": {
     "lib": "./lib"
   },
-  "license": "MIT",
-  "bugs": "https://github.com/balderdashy/sails-postgresql/issues"
+  "license": "MIT"
 }
